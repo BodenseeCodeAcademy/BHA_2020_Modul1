@@ -16,7 +16,7 @@ In this a very naive and experimental Java programming course, you have an oppou
 # What is inside?
   First Modül of 2020 planned for 4 months. At the end of this modul, we will implement a small Project.
 
-# In this modül we will hopefully cover followed topics:
+# In this modul we will hopefully cover followed topics:
 	- Course introduction	
 	- Software Tools Setup	
 	- First steps	
