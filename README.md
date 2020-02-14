@@ -1,6 +1,6 @@
 # Bodensee Code Academy
 
-Wellcome to Bodensee Code Academy! :)
+Welcome to Bodensee Code Academy! :)
 
 In this a very naive and experimental Java programming course, you have an oppourtuniy to learn Java from experienced Java software developers. As demand to Software related jobs (in particular Java softwate  developers) increasing rapidly in Germany, with this course, we will have a broad understanding of Software development world.        
 
