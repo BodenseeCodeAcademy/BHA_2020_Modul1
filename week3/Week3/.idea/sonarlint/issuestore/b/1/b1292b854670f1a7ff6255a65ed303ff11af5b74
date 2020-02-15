@@ -1,0 +1,32 @@
+
+tsquid:S1192"QDefine a constant instead of duplicating this literal "Welcome to BCA! " 3 times.(âçÅÌıÿÿÿÿ8‰Ä¶Ï„.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÈâ¥8º¨ÙĞ„.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ë í8 øùĞ„.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(•î8ô“æĞ„.
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(‹’ÁÏúÿÿÿÿ8óì†Ñ„.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜŞâ8†ğĞÏ„.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(·áµüÿÿÿÿ8ÚÓòĞ„.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï øìıÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Æ£õøÿÿÿÿ8Ê£±Ï„.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Çê¯ßúÿÿÿÿ8§ŞĞ„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÄÚùÿÿÿÿ8å°½Ï„.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò°ÿº8†ÓĞ„.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò°ÿº8ÿ´šÎ„.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¤âàüüÿÿÿÿ8ÍóĞ„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ºÔìøÿÿÿÿ8Íè·Ï„.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ä‹™8ÁœÆÏ„.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ç¡º×8ßºØĞ„.
