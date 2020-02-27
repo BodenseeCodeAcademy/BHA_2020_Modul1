@@ -1,4 +1,4 @@
-#What is waiting for us in this weeks lecture?
+# What is waiting for us in this weeks lecture?
 This week first we will recap the week4 and continue with "switch" statement, than we will learn the code blocks and in the end we will cover the methods.
 
 
@@ -16,7 +16,8 @@ The Algorithm flow will change related to this condition.
 	}
 ```
 # Switch -case
-Switch provides selection of multiple or one branch of code to run. If there is more than 2 posibility for a condition it is better to use switch over if clause.
+Switch provides selection of one or multiple branches of code to run. 
+If there are more than 2 posibilities for a condition it is better to use switch clause over if clause.
 ```Java
 	switch(statement){
 		case (option1): break;
@@ -68,7 +69,7 @@ How about this:
   
   
 These links will help :
-https://www.w3schools.com/java/java_conditions.asp
-https://www.w3schools.com/java/java_switch.asp
-https://www.w3schools.com/java/java_methods_param.asp
-https://www.w3resource.com/java-exercises/method/index.php# 
+- https://www.w3schools.com/java/java_conditions.asp
+- https://www.w3schools.com/java/java_switch.asp
+- https://www.w3schools.com/java/java_methods_param.asp
+- https://www.w3resource.com/java-exercises/method/index.php# 
