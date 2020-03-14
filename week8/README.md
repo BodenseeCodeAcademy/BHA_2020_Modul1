@@ -45,11 +45,11 @@ When we have to repeat some kind of process regarding one condition, while loop 
 At first it checks the condition and if the condition is true runs the code block, 
 the code block will run until the condition is false.
  - Examples:
-	- -	Write the numbers from 1 to 1000
-	- - Write the number from 1000 to 1 
-	- - Write the odd numbers to 1000
-	- - Write the even numbers to 1000
-	- - Calculate the factorial of one number.
+	- Write the numbers from 1 to 1000
+	- Write the number from 1000 to 1 
+	- Write the odd numbers to 1000
+	- Write the even numbers to 1000
+	- Calculate the factorial of one number.
 
 If you want to run the code block at least once and check the condition afterwards, you should use:
 
@@ -66,8 +66,8 @@ When we have to repeat some kind of process and we know how many times it should
 	}
 ```
  - Examples:
-	- -	take initial value, end value and increment from user and write a for loop 
-	- - sum the numbers from  0 to n
+	- take initial value, end value and increment from user and write a for loop 
+	-  sum the numbers from  0 to n
 
 #Nested Loops
 We can write loops inside another loop as much as we like.
