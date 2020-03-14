@@ -34,7 +34,7 @@ Should we write 1000000 times
 ```
 In order to solve this kind of repeating problems, we have loop structures to rescue.
 
-#While Loops
+# While Loops
 When we have to repeat some kind of process regarding one condition, while loop is useful.
 
 ```Java
@@ -58,7 +58,7 @@ If you want to run the code block at least once and check the condition afterwar
 		// do something here
 	}while (condition)
 ```	
-#For Loops
+# For Loops
 When we have to repeat some kind of process and we know how many times it should run, for loop is useful.
 ```Java
 	for (initizialion;condition;increment){
@@ -69,7 +69,7 @@ When we have to repeat some kind of process and we know how many times it should
 	- take initial value, end value and increment from user and write a for loop 
 	-  sum the numbers from  0 to n
 
-#Nested Loops
+# Nested Loops
 We can write loops inside another loop as much as we like.
 
 ```Java
