@@ -1,5 +1,7 @@
 package org.bodenseeCodeAcademy;
 
+import java.util.Scanner;
+
 public class GameOfLife {
     private static int[][] A_INFINITY_BOARD_9x9 = new int[][] { //
             { 0, 0, 0, 1, 1, 1, 0, 0, 0 }, //
@@ -17,6 +19,24 @@ public class GameOfLife {
         writeMatrixToScreen(nextGeneration);
         writeLiveCellCountToScreen(nextGeneration);
         writeLiveCellCountToScreen(A_INFINITY_BOARD_9x9);
+
+        System.out.println("Please give the number of generations: ");
+        Scanner scn = new Scanner (System.in);
+        int generationCount = scn.nextInt ();
+
+        if(generationCount<0) {
+            System.out.println("Incorrect Input");
+        }else if (generationCount==0){
+            writeMatrixToScreen(A_INFINITY_BOARD_9x9);
+        }else {
+            nextGeneration=A_INFINITY_BOARD_9x9;
+            for (int i=0;i<generationCount;i++){
+                nextGeneration=calculateNextGeneration(nextGeneration);
+            }
+            writeMatrixToScreen(nextGeneration);
+            writeLiveCellCountToScreen(nextGeneration);
+        }
+
     }
 
     private static void writeLiveCellCountToScreen(int[][] matrix) {
