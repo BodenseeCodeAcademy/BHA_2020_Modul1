@@ -72,6 +72,8 @@ public class GameOfLife {
                     }
                 }
             }
+            // we don't want to count the current cell as a neighbour!
+            liveNeighbourCount-=currentGeneration[i][j];
         return  liveNeighbourCount;
     }
 
